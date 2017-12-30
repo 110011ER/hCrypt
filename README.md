@@ -9,6 +9,7 @@ hCrypt is an open-source C++ Crypter.
 
 ### ToDo List
 (High Priority to Lowest)
+  - File Pumper
   - Stealth Injection Method
   - Fancy Builder
   - Anti Debugger Feature
