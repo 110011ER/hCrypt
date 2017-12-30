@@ -1,6 +1,8 @@
 # hCrypt
 
 hCrypt is an open-source C++ Crypter.
+Stub coded in Visual Studio.
+Builder coded in Qt.
 
 # Features
   - AES-256 Bit Encryption
