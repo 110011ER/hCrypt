@@ -14,4 +14,4 @@ hCrypt is an open-source C++ Crypter.
   - Anti Debugger Feature
   - Unique Stub Creation
 
-I know these features are even not close to some commercial(and illegal) crypters. But thats what I can done in 2 days. :)
+I know these features are not even close to some commercial(and illegal) crypters. But thats what I can done in 2 days. :)
